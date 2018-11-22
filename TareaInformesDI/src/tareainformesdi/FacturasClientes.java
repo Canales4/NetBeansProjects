@@ -19,7 +19,7 @@ import net.sf.jasperreports.engine.JasperPrint;
 
 /**
  *
- * @author Canales-PC
+ * @author Canales-PC Copiado del tema 2 de internet
  */
 public class FacturasClientes {
         public static Connection conexion = null;
